@@ -10,7 +10,7 @@ namespace Aula1 {
             
 
             Console.WriteLine ("Atividade7");
-            Console.WriteLine ("Digite quantas pessoas entraram no ônibus");
+            Console.WriteLine ("Digite quantas pessoas entraram no ônibus: ");
             qtd = int.Parse (Console.ReadLine());
 
 
