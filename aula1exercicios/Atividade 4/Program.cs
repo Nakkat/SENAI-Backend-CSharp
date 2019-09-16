@@ -4,7 +4,7 @@ namespace Aula1 {
     class Program {
         static void Main (string[] args) {
 
-            int num1;
+            float num1, num2;
             string Fulano;
             double resultado;
 
@@ -13,13 +13,13 @@ namespace Aula1 {
 
             Fulano = Console.ReadLine ();
 
-            // Concatenação
-            Console.WriteLine (Fulano + ", Agora digite o  valor que você quer consultar: ");
-
-            // Converto o texto capturado para o tipo inteiro
+            Console.WriteLine (Fulano = ", Digite o valor do dólar no momento atual")
             num1 = int.Parse (Console.ReadLine ());
 
-            resultado = num1 / 4.07;
+            Console.WriteLine (Fulano + ", Agora digite o  valor que você quer consultar: ");
+            num1 = int.Parse (Console.ReadLine ());
+
+            resultado = num1 / num2;
 
             Console.WriteLine ("Seu resultado é: " + resultado);
 
