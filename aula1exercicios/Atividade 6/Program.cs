@@ -4,7 +4,7 @@ namespace Aula1 {
     class Program {
         static void Main (string[] args) {
 
-            int num1, num2;
+            float num1, num2;
             string Fulano;
             float resultado;
 
@@ -17,8 +17,6 @@ namespace Aula1 {
 
             Console.Write ("Digite o valor da sua conta: ");
             num2 = int.Parse (Console.ReadLine ());
-
-            // Concatenação
 
             resultado = num1 - num2;
 
