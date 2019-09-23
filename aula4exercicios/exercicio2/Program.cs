@@ -3,55 +3,32 @@
 namespace exercicio2 {
     class Program {
         static void Main (string[] args) {
-            string resultado;
-            double pesoterra, peso;
-            int num;
+            double[] valores1 = new double[10];
+            double[] valores2 = new double[10];
+            double[] valores3 = new double[20];
 
-            Console.WriteLine ("Digite seu peso: ");
-            pesoterra = float.Parse (Console.ReadLine ());
+            for (int i = 0; i <= 9; i++) {
 
-            Console.WriteLine ("Agora, digite seu número: ");
-            num = int.Parse (Console.ReadLine ());
+                Console.WriteLine ("Digite o valor do primeiro vetor: ");
+                valores1[i] = double.Parse (Console.ReadLine ());
+            }
 
-            switch (num) {
-
-                case 1:
-                    peso = pesoterra / 10 * 0.37;
-                    resultado = "Seu peso em Mercúrio é" + peso;
-                    break;
-
-                case 2:
-                    peso = pesoterra / 10 * 0.88;
-                    resultado = "Seu peso em Vênus é: " + peso;;
-                    break;
-
-                case 3:
-                    peso = pesoterra / 10 * 0.38;
-                    resultado = "Seu peso em Marte é: " + peso;;
-                    break;
-
-                case 4:
-                    peso = pesoterra / 10 * 2.64;
-                    resultado = "Seu peso em Júpiter é: " + peso;;
-                    break;
-
-                case 5:
-                    peso = pesoterra / 10 * 1.15;
-                    resultado = "Seu peso em Saturno é: " + peso;;
-                    break;
-
-                case 6:
-                    peso = pesoterra / 10 * 1.17;
-                    resultado = "Seu peso em Urano é: " + peso;;
-                    break;
-
-                default:
-                    resultado = "Opção inválida";
-                    break;
+            for (int i = 0; i <= 9; i++) {
+                Console.WriteLine ("Digite o valor do segundo vetor: ");
+                valores2[i] = double.Parse (Console.ReadLine ());
 
             }
 
-            Console.WriteLine (resultado);
+            for (int i = 0; i <= 9; i++) {
+                valores3[i] = valores1[i];
+
+            }
+                for (int i = 0; i <= 9; i++) {
+                    valores3[i+10] = valores2[i];
+                }
+                 for (int i = 0; i <= 19; i++) {
+                Console.WriteLine (valores3[i]);
+                 }
         }
     }
 }
