@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "exercicio/1.0.0": {
+      "aula4exercicios/1.0.0": {
         "runtime": {
-          "exercicio.dll": {}
+          "aula4exercicios.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "exercicio/1.0.0": {
+    "aula4exercicios/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

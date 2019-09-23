@@ -1,45 +1,22 @@
 ﻿using System;
 
-namespace exercicio {
-    class Program {
-        static void Main (string[] args) {
-            int pedido;
-            string resultado;
-
-            Console.Write ("Digite o número do seu pedido: ");
-            pedido = int.Parse (Console.ReadLine ());
-
-            //Contamos a quantidade de caracteres de um elemento
-
-            //Pegamos o último digito
-            // Com o método Substring
-
-            switch (pedido) {
-
-                case 1:
-                    resultado = "Hamburguer";
-                    break;
-
-                case 2:
-                    resultado = "Chesse Salada";
-                    break;
-
-                case 3:
-                    resultado = "Chesse buguer";
-                    break;
-
-                case 4:
-                    resultado = "Chesse bacon";
-                    break;
-
-                default:
-                    resultado = "Opção inválida";
-                    break;
-
-            }
+namespace aula4exercicios
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {  double[] valor = new double[10];
             
-            Console.WriteLine (resultado);
+           for (int i = 1; i <= 9; i++) {
 
+                Console.WriteLine ("Digite um valor: ");
+                valor[i] = double.Parse (Console.ReadLine ());
+
+            }  
+            for (int i = 0 ; i < valor.Length; i++){
+                Console.WriteLine("Valores : " + valor[i]);
+            }
+             Console.WriteLine (valor[9] * 5);
         }
     }
 }
