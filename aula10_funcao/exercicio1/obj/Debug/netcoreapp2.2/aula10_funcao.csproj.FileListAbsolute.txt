@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10_funcao\exercicio1\bin\Debug\netcoreapp2.2\aula10_funcao.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10_funcao\exercicio1\bin\Debug\netcoreapp2.2\aula10_funcao.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10_funcao\exercicio1\bin\Debug\netcoreapp2.2\aula10_funcao.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10_funcao\exercicio1\bin\Debug\netcoreapp2.2\aula10_funcao.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10_funcao\exercicio1\bin\Debug\netcoreapp2.2\aula10_funcao.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10_funcao\exercicio1\obj\Debug\netcoreapp2.2\aula10_funcao.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10_funcao\exercicio1\obj\Debug\netcoreapp2.2\aula10_funcao.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10_funcao\exercicio1\obj\Debug\netcoreapp2.2\aula10_funcao.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10_funcao\exercicio1\obj\Debug\netcoreapp2.2\aula10_funcao.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10_funcao\exercicio1\obj\Debug\netcoreapp2.2\aula10_funcao.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10_funcao\exercicio1\obj\Debug\netcoreapp2.2\aula10_funcao.pdb
