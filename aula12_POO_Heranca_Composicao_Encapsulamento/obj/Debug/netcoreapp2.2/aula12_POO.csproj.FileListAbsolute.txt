@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula12_POO_Heranca_Composicao_Encapsulamento\bin\Debug\netcoreapp2.2\aula12_POO.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula12_POO_Heranca_Composicao_Encapsulamento\bin\Debug\netcoreapp2.2\aula12_POO.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula12_POO_Heranca_Composicao_Encapsulamento\bin\Debug\netcoreapp2.2\aula12_POO.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula12_POO_Heranca_Composicao_Encapsulamento\bin\Debug\netcoreapp2.2\aula12_POO.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula12_POO_Heranca_Composicao_Encapsulamento\bin\Debug\netcoreapp2.2\aula12_POO.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula12_POO_Heranca_Composicao_Encapsulamento\obj\Debug\netcoreapp2.2\aula12_POO.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula12_POO_Heranca_Composicao_Encapsulamento\obj\Debug\netcoreapp2.2\aula12_POO.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula12_POO_Heranca_Composicao_Encapsulamento\obj\Debug\netcoreapp2.2\aula12_POO.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula12_POO_Heranca_Composicao_Encapsulamento\obj\Debug\netcoreapp2.2\aula12_POO.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula12_POO_Heranca_Composicao_Encapsulamento\obj\Debug\netcoreapp2.2\aula12_POO.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula12_POO_Heranca_Composicao_Encapsulamento\obj\Debug\netcoreapp2.2\aula12_POO.pdb
