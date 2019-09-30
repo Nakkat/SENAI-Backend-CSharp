@@ -1,0 +1,28 @@
+segunda-feira, 30 de setembro de 2019
+15:53
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(ReadOnlySpan`1 value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at aula11_POO.Controllers.Pessoa.PessoaController.Cadastrarpessoa() in C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula11_POO\Controllers\Pessoa.cs:line 26
+
+segunda-feira, 30 de setembro de 2019
+15:58
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(ReadOnlySpan`1 value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at aula11_POO.Controllers.Pessoa.PessoaController.Cadastrarpessoa() in C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula11_POO\Controllers\Pessoa.cs:line 29
+
+segunda-feira, 30 de setembro de 2019
+15:59
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(ReadOnlySpan`1 value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at aula11_POO.Controllers.Pessoa.PessoaController.Cadastrarpessoa() in C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula11_POO\Controllers\Pessoa.cs:line 29
+
+segunda-feira, 30 de setembro de 2019
+16:00
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(ReadOnlySpan`1 value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at aula11_POO.Controllers.Pessoa.PessoaController.Cadastrarpessoa() in C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula11_POO\Controllers\Pessoa.cs:line 29
+
