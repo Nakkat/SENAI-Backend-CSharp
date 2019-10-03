@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14_Lista_Construtor\bin\Debug\netcoreapp2.2\aula14_Lista_Construtor.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14_Lista_Construtor\bin\Debug\netcoreapp2.2\aula14_Lista_Construtor.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14_Lista_Construtor\bin\Debug\netcoreapp2.2\aula14_Lista_Construtor.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14_Lista_Construtor\bin\Debug\netcoreapp2.2\aula14_Lista_Construtor.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14_Lista_Construtor\bin\Debug\netcoreapp2.2\aula14_Lista_Construtor.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14_Lista_Construtor\obj\Debug\netcoreapp2.2\aula14_Lista_Construtor.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14_Lista_Construtor\obj\Debug\netcoreapp2.2\aula14_Lista_Construtor.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14_Lista_Construtor\obj\Debug\netcoreapp2.2\aula14_Lista_Construtor.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14_Lista_Construtor\obj\Debug\netcoreapp2.2\aula14_Lista_Construtor.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14_Lista_Construtor\obj\Debug\netcoreapp2.2\aula14_Lista_Construtor.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14_Lista_Construtor\obj\Debug\netcoreapp2.2\aula14_Lista_Construtor.pdb
